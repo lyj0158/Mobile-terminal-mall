@@ -151,4 +151,22 @@ a{
 .show .recommend div:nth-child(3){
   background: url("../../src/images/hot_02.png") no-repeat;
 }
+@media screen and (max-width:390px){
+  .menu li{
+    padding: 6px;
+  }
+  .menu li a{
+    font-size: 12px !important;
+  }
+  .show .slide .carousel-inner .carousel-item img{
+    height: 159px;
+  }
+  .show .recommend div a{
+    margin-top: 15px;
+  }
+  .show .recommend div{
+    width: 48%;
+    height: 78px;
+  }
+}
 </style>

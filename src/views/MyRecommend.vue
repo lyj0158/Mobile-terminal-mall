@@ -125,7 +125,7 @@ ul li .recommend_title a{
   margin-bottom: 10px;
 }
 .coupon .coupon_a{
-  width: 31%;
+  width: 30%;
   float: left;
   border-radius: 8px;
   text-align: center;

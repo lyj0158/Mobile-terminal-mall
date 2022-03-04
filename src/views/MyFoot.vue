@@ -59,4 +59,9 @@ ul li a span:last-child{
   font-size: 12px;
   letter-spacing: 0px;
 }
+@media screen and (max-width:390px){
+  ul{
+    padding: 10px 9px;
+  }
+}
 </style>
